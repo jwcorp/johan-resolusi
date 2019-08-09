@@ -1,7 +1,6 @@
 Johan Resolusi
 * konsinten belajar
 * membuat platfom system
-* membuat discuss
 * buat game
 * punya kebun
 * punya toko
