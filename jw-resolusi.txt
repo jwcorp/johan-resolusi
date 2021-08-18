@@ -5,3 +5,4 @@ Johan Resolusi
 * buat game
 * punya kebun
 * punya toko
+* test lagi
